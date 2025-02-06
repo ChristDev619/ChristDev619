@@ -19,7 +19,7 @@
 
 ## 📫 Let's Connect
 - 🔗 **GitHub:** [@ChristDev619](https://github.com/ChristDev619)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](#) *(Add your LinkedIn URL)*
-- 🌍 **Portfolio:** [Coming Soon!] *(If you have a website, add it here)*
+- 💼 **LinkedIn:** [@Christian Chindy]((https://www.linkedin.com/in/christian-chindy-4a5a15140/)) *(Add your LinkedIn URL)*
+
 
 💻 **Code. Build. Innovate.** Always striving to improve and learn! 🚀
