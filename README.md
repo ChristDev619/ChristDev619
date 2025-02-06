@@ -8,18 +8,18 @@
 - 🔍 Passionate about **performance optimization, clean code, and system architecture**.
 
 ## 🌱 Currently Learning
-- 🏗 **Microservices Architecture** with ASP.NET Core 8 and Node.js.
+- 🏗 **Microservices Architecture**
 - ☁ **Azure & Docker/Kubernetes** for scalable deployments.
 - 📊 **Efficient Pagination & Large Dataset Handling**.
 
 ## 💡 Looking to Collaborate On
 - **Open-source projects** related to **.NET, Node.js, and API development**.
-- **Full-stack applications** using **MERN + C# backend**.
+- **Full-stack applications** using **C# backend + MERN**.
 - **Cloud-native solutions** with **Azure & DevOps pipelines**.
 
 ## 📫 Let's Connect
 - 🔗 **GitHub:** [@ChristDev619](https://github.com/ChristDev619)
-- 💼 **LinkedIn:** [@Christian Chindy]((https://www.linkedin.com/in/christian-chindy-4a5a15140/)) *(Add your LinkedIn URL)*
+- 💼 **LinkedIn:** ((https://www.linkedin.com/in/christian-chindy-4a5a15140/))
 
 
 💻 **Code. Build. Innovate.** Always striving to improve and learn! 🚀
